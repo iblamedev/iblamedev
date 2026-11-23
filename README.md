@@ -1,12 +1,12 @@
 <div align="center">
 
-```text
+<pre>
  ___ ____  _        _    __  __ _____ ____  _______     __
 |_ _| __ )| |      / \  |  \/  | ____|  _ \| ____\ \   / /
  | ||  _ \| |     / _ \ | |\/| |  _| | | | |  _|  \ \ / / 
  | || |_) | |___ / ___ \| |  | | |___| |_| | |___  \ V /  
 |___|____/|_____/_/   \_\_|  |_|_____|____/|_____|  \_/   
-```
+</pre>
 
 **DEV BALAJI A**  
 *Offensive & Defensive Security · Malware Research · Systems Engineering*
