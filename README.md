@@ -72,8 +72,8 @@
 
 * **[RANK 03 / 1,931 TEAMS]** Pointer Overflow CTF 2026 (UWSP, United States) — 55/69 individual solves across game hacking, binary exploitation, and reverse engineering.
 * **[WINNER — 01 / 600+ TEAMS]** Coimbatore Innovation Hackathon (CIH 2026) — Built FinNova, an AI-powered financial fraud detection platform.
-* **[03 / 20-QUESTION BENCHMARK]** AVAR Asia Cyber Catalyst Workshop / K7 Academy — Memory forensics with FTK Imager & Volatility 3; awarded Rs.5,000 voucher.
-* **[RANK 40 / 300+ TEAMS]** ByteMe CTF 2026 — Solo division; 31 challenges solved (6,500 pts).
+* **[MALWARE RESEARCH INTERN]** AVAR Asia Cyber Catalyst Workshop / K7 Academy — Memory forensics with FTK Imager & Volatility 3; awarded Rs.5,000 voucher and got offered internship.
+* **[RANK 40 / 300+ TEAMS]** OWASP ByteMe CTF 2026 — Solo division; 31 challenges solved (6,500 pts).
 * **[CERTIFIED LLM SECURITY EXPERT]** Red Team Leaders (CLLMSE) — Hands-on exploitation of prompt injection, RAG poisoning, agent SSRF, and MCP supply-chain risk.
 * **[200/200 DAYS CONCLUDED]** LeetCode Algorithmic Streak — Completed across dynamic programming, segment trees, game theory, and bitwise optimization.
 
