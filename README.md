@@ -33,16 +33,6 @@
 
 ### :: RESEARCH & SECURITY REPOSITORIES
 
-```
-┌── ~/research/flagship-deployments
-│
-├── chronotrace .......... [ACTIVE] Native SOC threat triage & forensic log workstation (Qt/PySide6, SQLite)
-├── ctfbrain ............. [TOOL]   Modular CTF automation & challenge classification engine
-├── poctf-2026-writeups .. [AUDIT]  69/69 challenge writeups: game memory injection, reversing, forensics
-├── cyber-defender ....... [EXP]    3D cyber awareness RPG with consequence-driven missions (SETS Gameathon)
-└── personal-portfolio ... [PROD]   devsky.space — dynamic HUD portfolio with interactive 3D mechanics
-```
-
 | Repository | Domain | Stack & Badges | Core Capability |
 | :--- | :--- | :--- | :--- |
 | **[ChronoTrace](https://github.com/iblamedev/chronotrace)** | SOC Telemetry | <img src="https://img.shields.io/badge/Python-3.14-0A0A0A?style=flat-square&logo=python" /> <img src="https://img.shields.io/badge/Qt-PySide6-0A0A0A?style=flat-square&logo=qt" /> <img src="https://img.shields.io/badge/DB-SQLite-0A0A0A?style=flat-square&logo=sqlite" /> | Parses 6 enterprise log streams; 23 detection rules & automated ReportLab PDF forensic generation. |
